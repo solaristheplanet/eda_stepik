@@ -4,7 +4,6 @@
 
 ## Источник
 
-UCI Machine Learning Repository: *Abalone dataset*.  
 Ссылка: https://raw.githubusercontent.com/aiedu-courses/eda_and_dev_tools/refs/heads/main/datasets/abalone.csv
 
 ## Описание задачи
